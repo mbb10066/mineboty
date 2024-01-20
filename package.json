@@ -1,4 +1,3 @@
-{
   "name": "mineboty",
   "version": "4.0.0",
   "description": "minecraft practice pvp",
@@ -11,8 +10,14 @@
         "start": "node .",
         "mineboty .": "node ."
     },
- 
+
 "dependencies": {
     "mineboty": "^4.0.0"
     }
 }
+ "username": "mineboty",
+ "ip": "JuicedHail79410.aternos.me",
+ "port": "40386",
+ "password": "",
+ "loginmsg": "kartik",
+ "_comment": "Loginmsg is used to make login the bo
